@@ -10,3 +10,9 @@ nav ul li:hover{
     background-color: black;
     color: blue;
 }
+header h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
