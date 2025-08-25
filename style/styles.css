@@ -1,0 +1,29 @@
+.card {
+    width: 250px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+.card img{
+    width: 100%;
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: aliceblue;
+}
+body{
+    max-width: 1240px;
+    margin: 0 auto;
+    background-color: gainsboro;
+}
+.card-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.card-section{
+    text-align: center;
+}
