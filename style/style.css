@@ -1,5 +1,6 @@
 nav ul li a{
     text-decoration: none;
+    color: black;
 }
 nav ul li{
     list-style: none;
@@ -15,4 +16,7 @@ header h1{
 }
 footer{
     text-align: center;
+}
+.navigation {
+    display: flex;
 }
