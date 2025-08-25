@@ -20,3 +20,22 @@ footer{
 .navigation {
     display: flex;
 }
+.hero-container img{
+    width: 75%;
+    height: 300px;
+    border-radius: 10px;
+}
+.hero-container{
+    display: flex;
+    background-color: antiquewhite;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.eight{
+    max-width: 1140px;
+    margin: 20px auto;
+}
